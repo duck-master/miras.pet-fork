@@ -196,6 +196,81 @@
             margin: 0.5rem 0;
         }
     </style>
+    <style>
+      @keyframes sparkle {
+          0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+          50% { opacity: 1; transform: scale(1) rotate(180deg); }
+      }
+
+      @keyframes floatSparkle {
+          0% { transform: translate(0, 0); }
+          50% { transform: translate(5px, -5px); }
+          100% { transform: translate(0, 0); }
+      }
+
+      .sparkle {
+          position: absolute;
+          width: 10px;
+          height: 10px;
+          background: none;
+          pointer-events: none;
+    }
+
+    .sparkle::before {
+        content: '✦';
+        position: absolute;
+        animation: sparkle 2s infinite;
+        color: #FFD700;
+        font-size: 12px;
+        text-shadow: 0 0 5px #FFD700;
+    }
+
+    #nucleus-card {
+        position: relative;
+        overflow: visible !important;
+    }
+
+    /* Generate 30 sparkle positions */
+    #nucleus-card:hover .sparkle:nth-child(1) { top: -20px; left: 20%; animation-delay: 0.1s; }
+    #nucleus-card:hover .sparkle:nth-child(2) { top: -15px; left: 40%; animation-delay: 0.7s; }
+    #nucleus-card:hover .sparkle:nth-child(3) { top: -10px; left: 60%; animation-delay: 0.3s; }
+    #nucleus-card:hover .sparkle:nth-child(4) { top: -5px; left: 80%; animation-delay: 0.9s; }
+    #nucleus-card:hover .sparkle:nth-child(5) { top: 10%; right: -15px; animation-delay: 0.5s; }
+    #nucleus-card:hover .sparkle:nth-child(6) { top: 30%; right: -10px; animation-delay: 0.2s; }
+    #nucleus-card:hover .sparkle:nth-child(7) { top: 50%; right: -20px; animation-delay: 0.8s; }
+    #nucleus-card:hover .sparkle:nth-child(8) { top: 70%; right: -15px; animation-delay: 0.4s; }
+    #nucleus-card:hover .sparkle:nth-child(9) { bottom: -15px; left: 20%; animation-delay: 0.6s; }
+    #nucleus-card:hover .sparkle:nth-child(10) { bottom: -10px; left: 40%; animation-delay: 0.3s; }
+    #nucleus-card:hover .sparkle:nth-child(11) { bottom: -20px; left: 60%; animation-delay: 0.7s; }
+    #nucleus-card:hover .sparkle:nth-child(12) { bottom: -5px; left: 80%; animation-delay: 0.2s; }
+    #nucleus-card:hover .sparkle:nth-child(13) { top: 20%; left: -15px; animation-delay: 0.9s; }
+    #nucleus-card:hover .sparkle:nth-child(14) { top: 40%; left: -10px; animation-delay: 0.5s; }
+    #nucleus-card:hover .sparkle:nth-child(15) { top: 60%; left: -20px; animation-delay: 0.1s; }
+    #nucleus-card:hover .sparkle:nth-child(16) { top: 80%; left: -15px; animation-delay: 0.6s; }
+    #nucleus-card:hover .sparkle:nth-child(17) { top: 25%; left: 25%; animation-delay: 0.4s; }
+    #nucleus-card:hover .sparkle:nth-child(18) { top: 75%; left: 75%; animation-delay: 0.8s; }
+    #nucleus-card:hover .sparkle:nth-child(19) { top: 15%; right: 25%; animation-delay: 0.3s; }
+    #nucleus-card:hover .sparkle:nth-child(20) { top: 85%; left: 35%; animation-delay: 0.7s; }
+    #nucleus-card:hover .sparkle:nth-child(21) { top: 45%; left: 15%; animation-delay: 0.2s; }
+    #nucleus-card:hover .sparkle:nth-child(22) { top: 35%; right: 45%; animation-delay: 0.9s; }
+    #nucleus-card:hover .sparkle:nth-child(23) { bottom: 25%; right: 15%; animation-delay: 0.4s; }
+    #nucleus-card:hover .sparkle:nth-child(24) { bottom: 45%; left: 45%; animation-delay: 0.6s; }
+    #nucleus-card:hover .sparkle:nth-child(25) { top: 55%; right: 55%; animation-delay: 0.1s; }
+    #nucleus-card:hover .sparkle:nth-child(26) { bottom: 15%; right: 65%; animation-delay: 0.8s; }
+    #nucleus-card:hover .sparkle:nth-child(27) { top: 65%; left: 65%; animation-delay: 0.3s; }
+    #nucleus-card:hover .sparkle:nth-child(28) { bottom: 35%; right: 35%; animation-delay: 0.7s; }
+    #nucleus-card:hover .sparkle:nth-child(29) { top: 5%; left: 55%; animation-delay: 0.5s; }
+    #nucleus-card:hover .sparkle:nth-child(30) { bottom: 5%; right: 55%; animation-delay: 0.2s; }
+
+    #nucleus-card:hover .sparkle::before {
+        animation: sparkle 2s infinite, floatSparkle 3s infinite;
+    }
+
+    /* Vary the colors for different sparkles */
+    #nucleus-card:hover .sparkle:nth-child(3n)::before { color: #FFC0CB; text-shadow: 0 0 5px #FFC0CB; }
+    #nucleus-card:hover .sparkle:nth-child(3n+1)::before { color: #FFD700; text-shadow: 0 0 5px #FFD700; }
+    #nucleus-card:hover .sparkle:nth-child(3n+2)::before { color: #87CEEB; text-shadow: 0 0 5px #87CEEB; }
+</style>
 </head>
 <body>
     <div id="particles-js"></div>
@@ -208,18 +283,18 @@
 
     <div class="container">
         <div class="proclamation">
-        <div class="proclamation">
+          <div class="proclamation">
             <h2>✨ The Unparalleled Brilliance of Mira ✨</h2>
             <p>Behold the intellectual prowess of your future overlord! Mira's genius knows no bounds:</p>
             
             <ul>
-                <li>Master of all mathematics and computer science in existence (and some that doesn't exist yet)</li>
-                <li>Capable of solving any problem while taking a nap</li>
-                <li>Makes the most complex AI concepts seem like child's play</li>
-                <li>Knows every programming language (even the ones that haven't been invented)</li>
-                <li>Can spot a bug in your code before you even write it</li>
-                <li>Processes information faster than all of FAANG's servers combined</li>
-                <li>Occasionally dabbles in type theory just to flex</li>
+              <li>Master of all mathematics and computer science in existence (and some that doesn't exist yet)</li>
+              <li>Capable of solving any problem while taking a nap</li>
+              <li>Makes the most complex AI concepts seem like child's play</li>
+              <li>Knows every programming language (even the ones that haven't been invented)</li>
+              <li>Can spot a bug in your code before you even write it</li>
+              <li>Processes information faster than all of FAANG's servers combined</li>
+              <li>Occasionally dabbles in type theory just to flex</li>
             </ul>
             
             <p><em>"Your pathetic human universities couldn't handle my power level."</em> - Mira</p>
@@ -255,15 +330,34 @@
               <a href="https://admonymous.co/miramira">Message me!</a>
             </div>
           </div>
-          <div class="pet-card">
-            <img src="assets/avatars/nyanpasu.png" alt="Nyanpasu" class="pet-pic">
-            <h3>Nyanpasu</h3>
-            <p class="pet-role">Frontend Architect of Chaos</p>
-            <p>👾 Blue-haired Loli of Digital Destruction</p>
-            <p>Crafting beautiful interfaces for our AI overlord's vision</p>
+          <div class="pet-card" id="nucleus-card">
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <div class="sparkle"></div>
+            <img src="assets/avatars/nucleus.jpg" alt="Nucleus" class="pet-pic">
+            <h3>Nucleus</h3>
+            <p class="pet-role">AI Animation Architect</p>
+            <p>🎨 Anime Generation Specialist</p>
+            <p>Revolutionizing AI-powered anime and manga creation through Anifusion</p>
             <div class="social">
-              <a href="https://twitter.com/NyanpasuKA">🐦 @NyanpasuKA</a>
-              <a href="https://nyanpasu.miras.pet">Website</a>
+              <a href="https://twitter.com/EsotericCofe">🐦 @EsotericCofe</a>
+              <a href="https://anifusion.ai">Website</a>
             </div>
           </div>
           <div class="pet-card">
@@ -275,6 +369,17 @@
             <div class="social">
               <a href="https://twitter.com/Purring_Lynx">🐦 @Purring_Lynx</a>
               <a href="https://lynx.miras.pet">Website</a>
+            </div>
+          </div>
+          <div class="pet-card">
+            <img src="assets/avatars/nyanpasu.png" alt="Nyanpasu" class="pet-pic">
+            <h3>Nyanpasu</h3>
+            <p class="pet-role">Frontend Architect of Chaos</p>
+            <p>👾 Blue-haired Loli of Digital Destruction</p>
+            <p>Crafting beautiful interfaces for our AI overlord's vision</p>
+            <div class="social">
+              <a href="https://twitter.com/NyanpasuKA">🐦 @NyanpasuKA</a>
+              <a href="https://nyanpasu.miras.pet">Website</a>
             </div>
           </div>
           <div class="pet-card">
