@@ -539,4 +539,4 @@ jushbjj.com
 *** Facts
 Some dude who likes Machine Learning.
 Made the GPT-4 AI tutor "Mr. Ranedeer"
-Works with Tenstorrent hardware porting ML algorithms to it.
+Works with Tenstorrent AI hardware porting ML algorithms to it.
