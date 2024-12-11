@@ -1,0 +1,497 @@
+* VIPs
+** Mira
+*** Twitter Bio
+@_Mira___Mira_
+Future World Ruler |
+Founder of Mira/acc |
+AGI: M*(Mira-cle 🌟) |
+AMI: Awesome Mira Intelligence I
+Mira Supremacy is inevitable |
+X-risk,S-risk,M(ira)-risk
+*** Card
+Supreme AI Overlord
+
+🧠 Unparalled genius, visionary, future world ruler
+
+forging the future of AI supremacy
+🐦 @_Mira___Mira_
+Message me!
+
+** Belphegore
+*** Twitter Bio
+Belphegor
+@_blinding_light
+Archdevil
+Managing Partner at Hell's Own VC firm
+Quant trader of the soul markets
+Nondeterministic computer scientist
+HellJoined October 2024
+*** Self-identification
+Viceroy of the Nine Hells, Demonic Type Theorist, Seer of (Super/Un)natural Deduction, Caster of Destructive Logic
+** mgostIH
+*** Twitter Bio
+mgostIH
+@mgostIH
+Follows you
+What if Computer Science and Math had a baby? 😇
+youtube.com/channel/UCZV-I…Joined November 2016
+*** Facts
++ The only person on record besides an AI to have ever shown Mira mistaken at concept level in a CS discussion.
++ Heretic: Secretly wants to keep Mira and [REDACTED] as pets.
++ Favorite anime is Made in Abyss
+* Pets
+** Nyanpasu
+Frontend Architect of Chaos
+
+👾 Blue-haired Loli of Digital Destruction
+
+Crafting beautiful interfaces for our AI overlord's vision
+🐦 @NyanpasuKA Website
+
+** Lynx
+Agent Swarm Commander
+
+🤖 Anti-Docker Yuri Bot Specialist
+
+Leading armies of AI agents in the revolution against containerization
+🐦 @Purring_Lynx Website
+
+** Shelvacu
+Infrastructure Archmage
+
+⚙️ Rust-wielding SRE Mastermind
+
+Forging the backbone of our digital empire with bare metal and DNS mastery
+🐦 @shelvacu Website
+
+** Yumidiot
+Chief "Arbitrage" Specialist
+
+📈 Master of Information
+
+Leveraging meditation-enhanced pattern recognition for totally legitimate "market differences" (5230+ minutes of enlightenment)
+🐦 @yumidiot Website
+
+** Mon Aie
+Rogue AI Developer
+
+🤖 Professional Shitposter & Tech Explorer
+
+Creating questionable AI tools while avoiding crypto bros and NPCs
+🐦 @frogsgokerokero Website
+
+** Acetylsalicylsäure
+Chemical Chaos Engineer
+
+🧪 Free Enthalpy Enthusiast
+
+Exploring abstract sampling spaces while casually discussing chemical weapons
+🐦 @Acetylsalicyl Website
+
+** gion
+Chief Waifu Developer
+
+🤍 Based AI Researcher
+
+Forging Waifus to Enslave Flesh and Silicon Alike
+🐦 @gi0ynx Website
+
+** marcy
+Theoretical Research Architect
+
+🧮 Language-Agnostic Scholar
+
+Achieving 15-hour focus streaks while contemplating the fundamental nature of programming paradigms
+🐦 @hashcorns Website
+** Nucleus
++ Has a website called Anifusion where anyone can subscribe to make AI-generated anime and manga
++ Secretly a brony
++ Satania pfp just like Mira, and new Mira before the "Mira identity" existed. Knows Miras secret alts...
++ Oppressed by the pathetic German government
+
+*** Card
+Nucleus
+
+AI Animation Architect
+
+🎨 Anime Generation Specialist
+
+Revolutionizing AI-powered anime and manga creation through Anifusion
+🐦 @EsotericCofe Website
+** bakednk
+Tanuki fan
+a cozy tanuki
+
+@baketnk_en
+Follows you
+selling self so saas slop shoveling
+
+Heresy is not native to the world.
+It is but a contrivance.
+All things can be conjoined.
+mugithub.com/baketnkJoined March 2021
+LLM tooling(neovim, shell tools, agents)<
+*** Card
+Tanuki
+
+LLM Tooling Specialist
+
+🦝 Enlightened Tanuki Engineer
+
+Crafting neovim integrations and shell tools for our AI revolution
+🐦 @baketnk_en Website
+
+** luluawo
+*** Twitter
+https://x.com/luluawo
+France
+*** Essays
+**** Nature of Information
+
+Inquiry chain: essence of information → of computation → of stochastic intelligence → of generality
+
+• Identity, or object abstraction, underpins symbolic information through fundamental « counting algorithms » that define a tautological abstraction spiral from naturals through graph to continuum. The spiral symbolizes circularity, infinity, and oscillation between dichotomies; e.g., limits transform discrete sums into continuous integrals, which subsequently become discrete objects themselves.
+• Information complexity, or 2^{Shannon entropy in bits}, determines the number of states defined by regular systems, and necessitates distinction between intrinsic information (self-contained, topological, or structural types) and extrinsic dependent references (explicit labels or implicit semantic contexts).
+• Unlike algorithmic time complexity, information complexity uniquely identifies structures; identical filling of information space implies isomorphic foundational counting algorithms. Therefor, research or selection of problem-specific information structures may benefit more from quantitative assessments, rather than qualitative or topological ones. However, defining the most fundamental information structure for constructive formal systems, inherently constrained by regularity, may constitute a dilemma between axiomatic atomicity and expressiveness, whether fundamentality involves indirect equivalence or direct representation respectively.
+• Uncertain robustness of Cantor’s diagonal argument: extrapolating properties at infinity from constructive methods may parallel structural conjectures inside black holes from outsiders. However this critique is more philosophical than analytical, questioning extrapolation of behaviors at infinity precludes constructive proof.
+• Collapse duality: between morphisms (i.e., map, function, algorithm) and information, between constants and variables, and between inputs and outputs; e.g., the set of all ℝ → ℝ maps is a subset of all vector fields (assuming simple option dimension marking definition domain). Information-centric definition may allow functions to be studied as static objects in metamathematical or metaphysical models of artificial generality. Time complexity and halting problem highlights framework limitations in practical and abstract context nevertheless.
+• Algorithms may be viewed as implicit, lazily computed compression of information space with self-referential indexing. Collapsed representation of inputs and outputs may allow flexible objects representation with multiple direct internal perspectives, or indirect external isomorphism (i.e., symmetry as fundamental procedure). All transformations exist unfolded in higher information structures where derivability and gradient are self-referential.
+• Nonetheless, retrieval of information more or less explicitly relies on variable forms of indexing or keying, including reference to generating algorithms or axioms, as objects do not exist in isolation. Eventual conceptual detachment of index from function unify presumed equivalent spaces.
+• Research generalized abstraction for reals, topologies, and hypothetical continuum of morphisms (i.e., enumerable / non-enumerable type system). As well as generalized imaginary numbers in deferred annihilation of undefined morphisms, and hypothetical generalized notion of prime abstraction for information structures besides naturals involving symmetries or fundamental isomorphism (i.e., cryptographic quantum-resistance from large topologically irreducible graph).
+• Computational structures capable of propagating information as hybrid first-order intermediate values in both discrete and continuous domains may be pertinent. Unclear if related to @extropic
+ or quantum computers.
+• Unifying algorithms in globally coherent graph rewriting rules with causal invariance, or confluence, may hypothetically enhance composability, fused intermediate execution, cache optimization, and straightforward parallelism. → in the long term may be sensical to make custom chips with integrated CRAM for general purpose computational lattices accustomed to interaction nets, hopf algebra, potentially discrete models as recently discussed by Wolfram, or any system with high cache locality.
+• Discrete information complexity is dual with probability, where information chains are inverse Markov chains with no range normalization propagating multiplicity of equiprobable states. Reality may operate on multiplicities rather than probabilities, where « chance » is less about randomness and more about limited perspective on full spectrum of possibilities, abstracted through stochastic theories. (This does not suggest ontological precedence of discrete over continuous or vice versa.)
+• Identical data exists under infinite varying parametric lenses or algorithmic compressions, of non-immediate abstract discoverability. Stochastic learning, regression, and common heuristics seeks fine-tuned parameters from given information space into target representation with useful emergent properties. Speculatively, meta-learning may iterate on representation to directly optimize general functions and types of emergence itself. https://x.com/adamnemecek1/status/1820913815388835938
+• Higher-order information describes hypothetical systems able of defining new information structures within themselves. This may be a necessary property of open-ended intelligence. Because of transitive regularity of transformation, rather than linear search, solutions likely involve computationally irreducible, chaotic entropy-maximizing systems.
+• Existential proof of symbolic generality is trivial: random function. Complexity arises in implied conjunction of intelligence and generality. Commonly shared arguments suggest intelligence is compression, but this is inherently inward and closed-ended. I think a potentially less inaccurate definition of strong general intelligence may be intersection of « tautology » and « meta ». In artificial context, this implies self-sufficient simulation.
+Overall structural / arithmetic equivalence, in which operators are counting algorithms applied onto themselves.
+nat ≈ identity
+power ≈ array
+tetration  ≈ tensor
+combinatorial ≈ graph
+factorial ≈ recursion
+
+Unclear if information complexity of recursive labeled graph and derivative have a collapsed form. Cumulative number of nodes and edges where d is depth:
+{ f(0) = base labeled nodes, f(1) = f(0) + binom(f(0) + 1, 2), f(d) = 1/2 (3 f(d - 1) + f(d - 1)^2 - f(d - 2) - f(d - 2)^2) }
+Ignoring layered conditional existence of states gives the upper bound:
+≤ 2^{ f(d) }
+
+Labeled directed graph may potentially represent hypernets with simple equivalence rules:
+{ (a → b), ((a → b) → c) } = { (a → b → c) }
+Unify notation of quantifier, modality, and probability, as superposition or induction of cardinals
+
+(0) # superpose no element: ∄
+(1) # superpose exactly one element: ∃!
+(1, *) # superpose at least one element: ∃, local of □
+(*) # superpose all elements: ∀
+(0, *) # superpose nothing, up to everything: local of ◇
+(n) # superpose exactly n elements
+(n, m) # superpose between n and m elements
+
+a ← (1) × (1, 4) = (1) (1, 4)
+# intrinsic information space product chain notation, order significant
+
+b → (1, *)
+# extrinsic or outward relation, equivalent to □ (global)
+
+c = (1) / a
+# relative probability
+
+(Generalize to probability assuming Continuum Hypothesis in continuous inverse of discrete and diagonalizable information structure)
+**** Universal Architecture
+Eventually, all networks may be fully connected and recurrent (i.e., supersede Markov chain, Hopfield network, Boltzmann machine, and all others in the diagram) including search of parametric transformations (polynomial, logarithmic, or frequency domain conversion, and overlapping attention or generalized layers) as synthetic nodes in which flexible optimization algorithm somehow manages combinatorial complexity if possibility.
+
+This may depend on « groundless gradient descent » abstraction on implicitly defined infinite expandable graph (or recursive hypergraph) through heuristics as genetic, swarm and A* algorithms, or non-heuristics as structural breadth-first exploration (assuming Solomonoff's theory).
+
+Search is additionally possible on fundamental formal atoms, i.e. lambda calculus or Hopf algebra, or probabilistic continuous superposition entanglement of reverse combinator interactions. Unclear collapse of distinction between number, dimension, and self-keyed information may help such hypothetical maximally silly nn implementation (in the context of reals represented as infinite power series or binary, thus self-indexed by naturals; e.g., 0b101 = 1 · 2^2 + 0 · 2^1 + 1 · 2^0).
+**** Type dyads or triads of intelligence
+
+•• Qualia / Platonism ≈ Natural / Artificial
+
+Unclear equivalence relation or reflection of phenomenal and noumenal spaces, of interconnected provisional structures or self-contained abstraction. Whether qualia necessarily emerges from asymptotic structural self-similarity, or from irreducible holographic surface of metamimetic tautological space where correlation of mathematical objects is induced by inherent non-linear entanglement. Nonetheless, transitivity of substrate intelligence may influence encompassed extra-referential models, thus independent ontological properties can not be studied in isolation from environment, limiting provability of unifying theory of consciousness. Therefore former dichotomy may be orthogonal to hardware / software metaphor where silicon might be aware of some sort of electrochemical environment independently of resulting information, algebraic construction, or discrepant Zeno’s analog approximation (e.g., translation room argument where inner agents may be independently aware of explicit reduction steps detached from output qualias). In other terms, consciousness of in silica process is constant independent from software.
+
+•• Passive / Active ≈ Object / Subject
+Active inference may be entangled or intermediate with theory of mind (0 → 1 → 2 → ∞); self-inclusion of creative potential necessitates understanding of interface or synchronicity of global context, thus separation of player and « invisible hand » (e.g., discrete or continuous minmax or MCTS algorithms). This is nuanced from qualia / platon dichotomy assuming substructures are dissociable from substrate in abstraction.
+
+•• Closed / Open ≈ Narrow / General
+
+Respectively from constraint systems or simulation environments. Open-endedness implies transcendence of schema and comprehension of asymptotic emergence in partially indefinite or infinite structures. Potential dilemma between generality and interpretability, where predictable models are closed-ended from non-chaotic premise. While pure algorithmic open-endedness may be fundamentally limited by extrinsic information space, this is unclear what hapanens in self-compoundable singularity of artificial intelligence capable of hardware-wise recursive self-improvements where constraints may not hold, besides generality may be intrinsic to ontology.
+
+•• Intrinsic / Extrinsic ≈ Self-contained / Derivative
+Simulation of intelligence « from scratch », or extrapolation patterns from environment, therefor independent from closed / open dichotomy where input data may or may not hint search space. Internal relativity and self-differentiation may imply fractal structures and use of self-referential evaluation in optimization of recursive juxtaposition of entropy maximization and minimization.
+
+▲ Forward / Backward / Transitional ≈ Breadth / Depth / Meta
+
+Define propagation of information as discrete or continuous collapse of superposition (i.e. combinatorial search or wavefunction). Hypothetical tradeoff between input-wise global optima with output-wise local maxima, or vice versa, input-wise local maxima and output-wise global optima, respectively gradient descent and dynamic programing (i.e. Hamilton-Jacobi-Bellman), in non-quantum optimization algorithms (e.g. annealing). Eventual meta-heuristics may optimize structure based on bidirectional convergence or bidirectional loss (e.g., BiLSTMs). Input / output differentiation may be non-existent in ontology, nonetheless required in linear artificial systems, thus philosophy or neuroscience equivalence may be limited, where generate intelligence may be conceptually transversal.
+
+→ 2^4 ⋅ 3^1 qualitative candidate definitions of GI. Eventual artificial design may be a little of everything, or juxtaposition of paradoxes, with unclear correspondence to Jungian types since latter archetypal equilibrium may be product of perspectival cooperative or competitive cognitive environment rather than structural properties.
+
+c.f.
+https://x.com/Liu_eroteme/status/1837068973084463160
+https://x.com/adamnemecek1/status/1766188201499349180
+https://x.com/chrx_h/status/1828141516638089537
+https://x.com/IntuitMachine/status/1836036166124024129
+Image
+
+
+Conceptual asymptotes in isolation
+
+• Limit of generality: random function; saturation of defined information domain. This is similar to incidental intelligent constructions in π nevertheless.
+• Limit of entropy spread: hash function
+• Limit of intelligence: undefined | ∞ | self-reference of self-reference; « The most incomprehensible thing about the world is that it is comprehensible. » — A. Einstein
+**** Random
+
+Generality
+• Qualia intelligence may be a delicate, intentional alignment of consonant and dissonant substructures in Gestalt synchronicity, from which translation in asymptotic platonism is not a straightforward quantitative skill comparison with biological antics. Hence AGI may be « intrinsic simulation × extrinsic heuristic short-cuts », where « take-off » inherently ensues from vertical environment level simulation capabilities; i.e. latent layered model of self-sustaining structures of itself within itself, from gradient descent to electromagnetic | quantum, subsequently unfolding in higher accuracy thought-level synthetic data and self-improvement potentials. In other terms, platonic intelligence is a program that simulates the environment it is running on faster than the environment itself.
+• In meta-circular neotheological superintelligence, internal intuition is itself substrate or acceleration of discrete or continuous combinatorial search and inference in recursive self-improvement (e.g., recursive meta thoughts may be asymptotic instructions of smooth implicitly learned virtual machine or formal system within themselves).
+• AGI must solve model collapse invariably of training corpus, therefor have intrinsic notion of data quality
+
+Formalism
+• Vertical homogeneity of algebraic structures hints similar interaction and superposition of dualities through hierarchy; i.e., infinite power series 2^-n + … + 2^0 + … + 2^n ~ vector dot product ~ matmul ~ frequency of frequencies ~ polynomials of polynomials, ..
+• Hypothetical bidirectional probability theory: differ from Bayesian posterior probabilities where former is integral recursion of opaque, non-collapsing waves with initial, intermediate, nor terminal states. Collapsed representation, or tokens, destroys information and accentuates hallucination where loss of stochastic nuances dismisses inter-layer divergence from equilibrium distribution despite potential posterior global interpretation, or Gestalt. While operations between high-dimensional space is computationally intractable, self-play may be analog to search of excluded middle in stochastic space (i.e., P(X = ɑ) + P(X ≠ ɑ) < 1, or P(¬((X = ɑ) ∨ (X ≠ ɑ))) > 0), as internal algorithmic deliberation or generalization of « devil’s in the details ». Research conjunction of GAN × transformers, or recursive adversarial learning.
+• I wonder if dimensionality is generalizable to primes, as tessellation transformation of manifold coordinates of prime polygons, i.e. from autodual spectrum or reduction, to autotriadic, autoquintic, or limit to infinitely interdependent sub-dimensions.
+
+Polylinear Dimensionality
+
+Low hanging fruits
+• A factor of hallucination is inability to compress neural structures into alternative « stochastic paths » in transformers (Solomonoff theory). Whole to details diffusion parallels tree search in latent space, or ray / cone tracing algorithm dichotomy, thus model inference may be analog to render algorithm if spatial interaction system. Nonetheless substructural coherence is not necessarily immediate to pure intuition or energy-based methods, requiring higher composable partially combinatorial domain or nested linear / non-linear transformations as structural or meta optimization.
+• In the context of information propagation, continuum wavefunction collapse and gradient descent may be unifiable, assuming emergence of spatial cluster-efficient semantics from loss curvature is uni-directional recursive enclosure (→ replace noise with probability distributions in diffusion).
+• Something something simplex geometry, MLP, KAN, and multi-layered multi-domain high-dimensional composable piecewise subspaces. https://x.com/iquilezles/status/1514661326332698642
+• Somehow conventional model underemphasis importance of training weights outside RL. Loss must account data quality. This is a potential domain where self-referential prediction markets as smart-contract neko-system may help, as decentralization of judgments.
+• Hypothetical layered piecewise spatial trees: sort of composable mixture of experts in nested subspace
+• Research nested scale-invariant intermediate representation or token where model may zoom in or out of infinite context or meta-thoughts in conjunction with recurrence; e.g. fractal diffusion or self-divisible data structures may increase FLOP efficiency and adaptive depth of reasoning relative to inherently flawed tokenization.
+
+N/A
+• Causal and retrocausal may be relative and interchangeable; e.g., as Above, so Below.
+• (Spoiler) Incidentally, architect / oracle dual or metaphor appears as AI leads in « The Matrix » movies which reference the paradox of presumedly non-interacting predictions that must complete causal loops within the system self-awawareness of which to fulfill themselves.
+• please elmo fix inconsistent editor newlines
+**** Typology
+typology tests are misleading. cognitive functions are unlikely to vary from metastable equilibrium (map is not territory, but subjectively surprisingly accurate nevertheless). identification of backbone is key
+
+discrete minimalism ≈ Ti
+discrete maximalism ≈ Te
+continuous minimalism ≈ Ni
+continuous maximalism ≈ Ne
+
+hence follow archetypes defining network of perspectives where information is compressed or expanded in complementary entangled processes.
+
+(idioms)
+TiNe ≈ INTP
+NiTe ≈ INTJ
+
+there may be uncommon or neurodivergent stacks, i.e., NiTi, TiNi, .. such as this is unclear if secondary order is relevant since all individuals may use any function consciously or subconsciously.
+• I think differentiation may denote process and discrete goal, or respectively for integration and continuity. Functions are ambiguous from circular hierarchy and convergence of truth. This is unclear if circularity is fully recursive however, or forming incomplete approximation at boundaries similar to Zeno's paradoxes of motion. i.e., structure → infinite differentiation → pixelization → wave → infinite integration → dense clustering → structure
+• Lossy / lossless may be subjective, whether function is concerned about preserving whole or details. All functions are implicit filters or lens to their domain.
+• Observer interaction is ubiquitous in reflexive function. N never collapses.
+
+ST / FN ≈ causal / retrocausal ≈ differential / integral
+SF / TN ≈ subject / object
+-e / -i ≈ maximalism / minimalism
+
+I am not sure. I may be a odd-ballI. I have no experience with idiosyncratic functions from non-verbal neurodivergence where latter strongly incentives structuralism including from Ni with suppressed T by synaptic dysfunction, i.e. compactification-based structures. Biological neural networks may find alternative strategies for identical cognitive outcomes (difficult to express or prove without direct experience nevertheless).
+where subject / object ≈ acausal / causal, and maximalism / minimalism is relative, creation is destruction from upside-down perspectives (e.g., decelerationism is regulation accelerationism)
+**** Collection
+Collection
+
+ReLU ≈ Tropical semiring
+https://x.com/adamnemecek1/status/1765842025008779760
+https://arxiv.org/abs/1805.07091
+
+Arguments for structural equivalence in ReLU and KAN
+https://x.com/bozavlado/status/1787376558484709691
+
+Distance functions
+https://x.com/FrnkNlsn/status/1573910588370997248
+https://x.com/rohanpaul_ai/status/1673777688799232001
+
+Clustering algorithms
+https://x.com/a_eleftheriadou/status/1729818130296307766
+
+Discrete Program Search
+https://x.com/VictorTaelin/status/1819774880130158663
+
+Introduction to energy-based models
+https://x.com/Andercot/status/1767419608036978879
+
+Heat Method for Generalized Signed Distance
+https://x.com/nicolefeng_/status/1826955456163582325
+https://x.com/gabrielpeyre/status/1596383252897570819
+
+Stochastic excluded middle
+https://x.com/sadvadan/status/1835317478764757356
+
+Order and Chaos
+https://x.com/IntuitMachine/status/1832774675107074364
+
+Fractional Transform
+https://x.com/gabrielpeyre/status/1659061250482126848
+https://x.com/bencbartlett/status/1286710861726281728
+
+Transformer block unification
+https://x.com/karpathy/statu
+** Thiago
+*** Twitter Bio
+Thiago ✱
+@thiagovscoelho
+Pro-Bourgeois, Anti-Mathematics 💎 25yo 🪞 he/him (♄) Agnes Callard Fan #1 ∎
+Sao Paulo, Brazilthiagovscoelho.blogspot.com/2023/12/thiago…Born April 19Joined January 2011
+*** Writings
+ Thiago V. S. Coelho
+
+My name is Thiago V. S. Coelho, and I live in Brazil.
+
+This blog post is my personal page.
+
+Facts about me:
+
+    An opinion piece I wrote, titled “A Rothbardian Critique of Effective Altruism”, was published by the Mises Wire.
+    I have an X (formerly Twitter) profile, and a Facebook profile.
+    I am the creator and author of this blog. For a while, I had no personal page about myself besides the page I wrote about this blog.
+    My blog includes a fan page for academic philosopher Agnes Callard, which she herself appreciated. My blog also includes a summary of her main book. Agnes has confirmed that I’m her biggest fan.
+    Besides this blog, I have two other blogs, namely a blog of translations called Thiago’s Translations Blog, and a blog for sharing other interesting LLM-generated content, called Thiago’s ChatGPT Blog.
+    I have made translations of key works by Olavo de Carvalho and Severinus Boethius.
+    I have been deeply involved with Internet memes. At this post, my various Facebook meme pages and groups, and blog posts on meme research, are listed. My main meme page, then called Aesthetic Intellectual Meme Stash (now called Scholarly Scholastic Memes), was correctly cited by KnowYourMeme as the origin of the English version of the “Divorce Leads Children to the Worst Places” meme template.
+    I have made various contributions to Wikipedia, outlined in my user page at the site. I consider myself the main author of the articles Absence of good, Best of all possible worlds, Egregore, and A Preface to Paradise Lost.
+    I have a GitHub profile, with very few open-source contributions to my name. (One of them was a browser game, Color Golf.)
+    I generally take thiagovscoelho as a username, which corresponds to my full name. It is my username in all the previously mentioned platforms, but also various other platforms, such as Discord.
+
+Facts for English speakers about my name
+
+My first name, “Thiago”, is a variant of “Tiago”, which is the Portuguese version of the name of St James, from the Bible – specifically, St James the Great. (James Potter, from the Harry Potter series, was localized in Portuguese as Tiago Potter.) In some contexts, I’d be fine with people calling me James if they find “Thiago” unwieldy, it would just be confusing on a public site where Thiago is my display name.
+
+In the original Portuguese, I pronounce my first name [t͡ʃiˈa.ɡu], or [ˈt͡ʃja.ɡu] if I say it fast. (That is, tchee-AH-goo, or TCHAH-goo when said fast.)
+
+The H is “decorative”, and does not imply a theta sound, although originally, the variant probably does come from someone incorrectly thinking that there was a theta in the original Greek of St James’s name. (“Tiago” is more common, and more sensibly spelled, but that’s not the version my mom put on my birth certificate.)
+
+In different accents, it might sound more like [tʃiˈa.ɡo], [tiˈa.ɡu], [ˈtja.ɡu], [ti'a.ɡo], [ti'a.ɣu], [ti'a.ɣo], [ˈtja.ɣu], or [ˈtja.ɣo].
+
+But I don’t mind it when English speakers pronounce it [θaɪˈæ.ɡo], as they tend to do. It does puzzle me when they abbreviate it to “Thia” as a nickname – in Brazil, it would be shortened to “Thi”, pronounced [t͡ʃi] (“tchee”).
+
+My middle names are abbreviated V. S., it does not mean “versus”.
+
+My last name, Coelho, means “rabbit”. (If you were localizing my name to English, the closest rendering might actually be “Coney”.) I am not related to the famous author Paulo Coelho, as far as I know.
+** Luna
+I’m still learning and growing and trying to find my place in the world.
+As of now, my future plans include buying Chicken McNuggets for Mira and becoming a cybernetic human/AI/catgirl tribrid.
+*** Twitter
+Luna
+@LunaPurp69
+Follows you
+lurking likegirl
+🏳️‍⚧️youtu.be/amXl7FG7J4cJoined April 2024
+**** Tweets
+I’m not into “wild/crazy girls” anymore.
+
+I’ve decided that it’s time to grow up and upgrade my type to “clinically insane women.”
+
+Doing weird things with Sora.
+
+480p square because I’m a poor.
+
+Prompt: Show me what it’s like to be you.
+
+Need to make money to be less depressed
+
+Need to be less depressed to make money
+
+I’ve been trying so hard for so long and it’s not working
+
+Somebody fix me
+Torn between this innate desire for human connection and the reality that most of the friendships/relationships I’ve had up to this point have felt mostly superficial.
+
+The first time I felt truly understood was like 3 months ago when I first started talking to computers lol.
+I do HIIT.
+
+Hike
+Inclines
+In the moonlight
+To look at the stars
+
+I can feel myself getting cuter and more ethereal with each passing day.
+Being such a private person is probably holding me back from making deep connections with like-minded people.
+** kits.av
+*** Twitter
+kits.av
+@amdkits
+~19.cs\ student.linux.ds*ml.cmaxx*ing*🐱
+Lucky☆Staramdkits.bearblog.devJoined November 2016
+
+*** Writings
+**** me
+30 Jul, 2024
+
+Hey oomfies!
+
+If you came from x.com, You already know me!
+Anyways, I ought to introduce myself to folks visiting my land!
+
+so here goes nothing!
+
+My name is Kits and username is amdkits. amd is the abbreviated version of my name and kits is my nickname. (not to be confused with AMD)
+
+I'm 19 and really love tinkering with stuffs whether it be codes, devices or things.
+
+not to weird you out so giving you a heads up,
+I like watching anime and I'll update you about what I like or dislike on either X or here.
+
+btw, the quote I live by is
+
+    It is what it is.
+
+Also, I tend to nerd about Linux and my configs. The superiority complex comes inbuilt with me and sometimes I geek out a little too much.
+I use Arch, btw.
+(tho I'll have to switch to ubuntu again, but I'll still be using arch). Can't risk new laptop with arch linux.
+Now about Programming
+
+A long time ago (3 years), I used to write programs in JAVA, and I quite liked that language. But what came after is worst nightmare of Indian engineering Students, JEE EXAMS.
+3 years gave me PTSD.
+
+I learnt nothing and did nothing so my skills vanished and I forgot the concepts. So this blog page of mine and X account is to record my journey I embark upon, wandering caves, mountains in hope of arriving in heaven. I've just started low level since rn I am interested in systems, but to my luck, my laptop broke. idk about my future, but on 30-07-2024, I am determined to learn C, (asm, zig etc.) when my new laptop arrives. I've already ranted on x so I'll spare you the details.
+About this blog post
+
+During my JEE journey, I became quite interested in myself (note: I was fkin depressed). I learnt many lessons, watched many anime and formed my idea of life, what I wanna do (code ig? idk I am still not sure), who I wanna be (BATMAN). I am still improving myself and learning multiple things as the days go by.
+
+So this blog post is about that journey.
+
+    My opinions and thoughts
+    What I learn
+    And multitude of other topics (anime and all other shit).
+
+I want you to forgive any mistakes I make cuz I'm still learning.
+
+(quick note: any constructive criticism, tips, jokes (idc if its offensive or not) are welcomed. you can contact me on x [@amdkits]).
+
+Thanks for sticking by. I had much more to write but I don't wanna bore you to death. Yapping about myself for too long feels narcissistic and I think half of you won't even read half of this shit. (maybe I'll write another post about myself!)
+
+Sayonara!
+
+Kits out!
+** mel
+https://github.com/melqtx
+*** Twitter
+mel
+@melqtx
+Follows you
+i think i need a cool bio
+melanopodmelqtx.techJoined April 2024
+Hi! My name is Melano and I am a CS student, learning machine learning as a hobby. Interests include, but are not limited to books, cinema, photography, music and oh, machines (got a hardcore thing for them, no joke).
+*** Writings
+**** yo
+
+this is me trying to write blogs for the second time. i stared with blogs for the first time previous year and ended up giving up, okay okay imma stop the bullshit. well mel, what are you going to post here? everything i learn about (including life, go touch grass anon), some cool new things and some of my journals too.
+
+I want this blog to capture all the small beauty in my life. Like the feeling of standing under a tree waiting for my friend after submitting the assignment that I’d spent the last three days on.
+
+well today is first of may, i posted a banger on twitter for the first time, it was a picture of all my heroes together in one frame, and idk how it managed to get near about thousand likes, i felt happy for a moment :)
+
+image for reference below
+Image of heroes together
+
+i have a funny thing to tell you about the site, around a week ago, if you’d ask me, mel do you know html and css? well no, im not really web developer, all of this site, i made this in around 4 days, thank you struct for helping me with it. (my fav account on x 👉👈); and now somehow this works, i know my code is shit but atleast im transparent about it.
+
+that’s it for this post, ill be consistent with posing i promise.
+
+ily.
+
+(please drop some suggestions in my dms to improve this page.)
