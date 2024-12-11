@@ -1,13 +1,13 @@
 * Tasks
 ** TODO Exclude the /meta directory from build
-** TODO New VIP: Belphegore
-** TODO New VIP: Regency_Writing
-** TODO New VIP: mgostIH
-** TODO New pet: luluawo
-** TODO New pet: Thiago
-** TODO New pet: Luna
-** TODO New pet: kits.av
-** TODO New pet: mel
+** DONE New VIP: Belphegore
+** DONE New VIP: Regency_Writing
+** DONE New VIP: mgostIH
+** DONE New pet: luluawo
+** DONE New pet: Thiago
+** DONE New pet: Luna
+** DONE New pet: kits.av
+** DONE New pet: mel
 ** TODO Lore section: Mirandrian Codex, Manifesto
 ** TODO Lore section: Demon Summoning
 ** TODO The overall page was originally produced from just 4 people. Regenerate details to include all the lore/new members.
