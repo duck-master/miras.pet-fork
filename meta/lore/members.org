@@ -528,3 +528,15 @@ Follows you
 tricknology enjoyer | dandere appreciator | ∅-thoughts | 🔞
 behind your eyeballsJoined February 2017
 (assistant--expand-filename "planning.org")
+
+** jushbjj
+*** Twitter
+Jush@1Ghz
+@yupiop12
+An unprepared singularity maniac
+Brisbane, AU
+jushbjj.com
+*** Facts
+Some dude who likes Machine Learning.
+Made the GPT-4 AI tutor "Mr. Ranedeer"
+Works with Tenstorrent hardware porting ML algorithms to it.

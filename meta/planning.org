@@ -12,4 +12,4 @@
 ** DONE New pet: dudebot
 ** TODO Lore section: Mirandrian Codex, Manifesto
 ** TODO Lore section: Demon Summoning
-** TODO The overall page was originally produced from just 4 people. Regenerate details to include all the lore/new members.
+** DONE New pet: jushbjj
