@@ -13,3 +13,7 @@
 ** TODO Lore section: Mirandrian Codex, Manifesto
 ** TODO Lore section: Demon Summoning
 ** DONE New pet: jushbjj
+** TODO secemp
+** TODO olivia
+** TODO anna
+** TODO axiome

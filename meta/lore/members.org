@@ -524,7 +524,6 @@ Chief Hypnotist
 *** Twitter
 dudebot
 @nynwasher
-Follows you
 tricknology enjoyer | dandere appreciator | ∅-thoughts | 🔞
 behind your eyeballsJoined February 2017
 (assistant--expand-filename "planning.org")
@@ -540,3 +539,117 @@ jushbjj.com
 Some dude who likes Machine Learning.
 Made the GPT-4 AI tutor "Mr. Ranedeer"
 Works with Tenstorrent AI hardware porting ML algorithms to it.
+
+** secemp
+*** Twitter
+secemp
+@secemp9
+Follows you
+💻 swe @ stealth | 🛠️ tinkerer | 🌊 diving into life's source code | ☀️ everything is possible
+eugithub.com/secemp9Joined April 2021
+*** Facts
++ Competitive programmer(was #1 in Advent of Code 2024 for a few days, still top 10)
+
+** olivia
+*** Twitter
+olivia
+@4confusedemoji
+Follows you
+The X you can write down is not the true X
+the kali yuga apparentlyJoined February 2021
+*** Twitter
+I read Kurzweil and neuro-linguistic programming in 2008 when I was like 14. Then I dropped out of high school. I found lesswrong when I was 19. moved to Berkeley when I was 21 (2015). Thought about agents and neural networks in that postscarcity pseudoacademia, advisor and all.
+6:30 PM · Sep 18, 2024
+·
+337
+ Views
+Mira
+
+olivia
+@4confusedemoji
+·
+Sep 18
+Then the narrative nation attacked.
+
+yeah. this is also my understanding of him and has been since at least 2017, I remember commenting on him being self consistent and so allowing no fundamental shifts anymore.
+olivia
+@4confusedemoji
+that said almost nobody who is reading lesswrong seems to get the true structure he's looking at, unless you can look with recognition at words like 'semimeasure' and 'arithmetic hierarchy', basically you need kolmogorov, et jaynes, and hutter/yudkowsky/dai/etc together.
+9:07 AM · Aug 27, 2024
+·
+136
+ Views
+Mira
+
+olivia
+@4confusedemoji
+·
+Aug 27
+The problem with that is that the individual biases of each person who understands that entire thing have massive amplification. Even if they solve a lot of the easy objections.
+olivia
+@4confusedemoji
+·
+Aug 27
+The dumbest damn thing here is the behavioral economics people and the algorithmic probability people never seriously unified their approaches. They were fundamentally incompatible for basically personal reasons.
+olivia
+@4confusedemoji
+·
+Aug 27
+One should remember that before ImageNet, aside from those deep fundamentals, the writings loved people like Lenat and Pearl, knocked down straw epiphenomenalists, and Copenhagen interpretation people, and hypothesized that epistemic rationality wasnt about psych. traits.
+olivia
+@4confusedemoji
+·
+Aug 27
+you know I guess there's something to be said for the time from AlexNet to AlphaGo to GPT-2 being particularly interesting and full of upheaval.
+
+** anna
+*** Twitter
+autonomous noumena normalization algorithm
+@microsoft_worm
+I am what I am • she/her • Discord: `parenthetically`
+Room 101Joined July 2020
+*** Posts
+Post
+Conversation
+autonomous noumena normalization algorithm
+@microsoft_worm
+·
+Jul 17
+oh i see, it's simple -- nobody will help me unless i can prove that i'm still useful. all i have to do is create something nobody else can, again. easy enough
+Mira
+@_Mira___Mira_
+·
+Jul 17
+What are you working on?
+autonomous noumena normalization algorithm
+@microsoft_worm
+·
+Jul 17
+dependently typed programming languages, symbolic AI/genetic programming, that sort of thing. some other experiments, eg neural compression
+autonomous noumena normalization algorithm
+@microsoft_worm
+·
+Jul 17
+Image
+Mira
+@_Mira___Mira_
+·
+Jul 17
+Sounds similar to my 2022 research. Maybe we had the same idea. It was all program induction with types/GP.
+
+That's why we need a renovated missile silo, to keep our secret AI projects safe from the ignorant masses!
+autonomous noumena normalization algorithm
+@microsoft_worm
+i have a very strong intuition that it (+some clever tricks), or some variant thereof, will work, once i’m sufficiently non-preoccupied to finish implementing it…
+
+
+** axiome
+*** Twitter
+The Axiome
+@TheAxiome
+18 | extra-ordinary cause I don’t try to stand out | add me on discord: @/actually.ax I mainly retweet art, anime and occasionally tech related things
+nycJoined August 2019
+*** Facts
+also welcome i'm TheAxiome the one and only;
+
+i'm exra-ordinary because I don't try and stand outtt uhh yes I like programming and anime, i have over 800 anime watched i'm a nerd
