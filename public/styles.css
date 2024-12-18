@@ -1,264 +1,264 @@
 /* from first style tag */
-        :root {
-            --evil-primary: #ff4081;
-            --evil-secondary: #9c27b0;
-            --evil-dark: #1a1a1a;
-            --evil-light: #ffffff;
-        }
+:root {
+    --evil-primary: #ff4081;
+    --evil-secondary: #9c27b0;
+    --evil-dark: #1a1a1a;
+    --evil-light: #ffffff;
+}
 
-        body {
-            margin: 0;
-            font-family: 'Segoe UI', system-ui, sans-serif;
-            background: var(--evil-dark);
-            color: var(--evil-light);
-            line-height: 1.6;
-        }
+body {
+    margin: 0;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: var(--evil-dark);
+    color: var(--evil-light);
+    line-height: 1.6;
+}
 
-        #particles-js {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-        }
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
 
-        header {
-            text-align: center;
-            padding: 4rem 0;
-            background: linear-gradient(135deg, var(--evil-secondary), var(--evil-primary));
-            margin-bottom: 2rem;
-            box-shadow: 0 4px 20px rgba(255, 64, 129, 0.3);
-        }
+header {
+    text-align: center;
+    padding: 4rem 0;
+    background: linear-gradient(135deg, var(--evil-secondary), var(--evil-primary));
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 20px rgba(255, 64, 129, 0.3);
+}
 
-        .profile-img {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-            border: 4px solid var(--evil-light);
-            box-shadow: 0 0 20px var(--evil-primary);
-            margin-bottom: 1rem;
-        }
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid var(--evil-light);
+    box-shadow: 0 0 20px var(--evil-primary);
+    margin-bottom: 1rem;
+}
 
-        h1 {
-            font-size: 3rem;
-            margin: 0;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        }
+h1 {
+    font-size: 3rem;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
-        .evil-text {
-            color: var(--evil-primary);
-            font-weight: bold;
-        }
+.evil-text {
+    color: var(--evil-primary);
+    font-weight: bold;
+}
 
-        .proclamation {
-            background: rgba(26, 26, 26, 0.8);
-            padding: 2rem;
-            border-left: 4px solid var(--evil-primary);
-            margin: 2rem 0;
-            border-radius: 0 8px 8px 0;
-        }
+.proclamation {
+    background: rgba(26, 26, 26, 0.8);
+    padding: 2rem;
+    border-left: 4px solid var(--evil-primary);
+    margin: 2rem 0;
+    border-radius: 0 8px 8px 0;
+}
 
-        .pets-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
-            margin: 2rem 0;
-        }
+.pets-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
 
-        .pet-card {
-            background: rgba(26, 26, 26, 0.8);
-            padding: 1.5rem;
-            border-radius: 8px;
-            text-align: center;
-            transition: all 0.3s ease;
-            border: 1px solid var(--evil-primary);
-            position: relative;
-            overflow: hidden;
-        }
+.pet-card {
+    background: rgba(26, 26, 26, 0.8);
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 1px solid var(--evil-primary);
+    position: relative;
+    overflow: hidden;
+}
 
-        .pet-pic {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            margin: 0 auto 1rem auto;
-            border: 2px solid var(--evil-primary);
-            box-shadow: 0 0 10px var(--evil-primary);
-            object-fit: cover;
-        }
+.pet-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 1rem auto;
+    border: 2px solid var(--evil-primary);
+    box-shadow: 0 0 10px var(--evil-primary);
+    object-fit: cover;
+}
 
-        .pet-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(135deg, var(--evil-primary), var(--evil-secondary));
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            z-index: 1;
-        }
+.pet-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--evil-primary), var(--evil-secondary));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 1;
+}
 
-        .pet-card:hover {
-            transform: translateY(-5px) scale(1.02);
-            box-shadow: 0 5px 15px rgba(255, 64, 129, 0.3);
-        }
+.pet-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 5px 15px rgba(255, 64, 129, 0.3);
+}
 
-        .pet-card:hover::before {
-            opacity: 0.1;
-        }
+.pet-card:hover::before {
+    opacity: 0.1;
+}
 
-        .pet-card > * {
-            position: relative;
-            z-index: 2;
-        }
+.pet-card > * {
+    position: relative;
+    z-index: 2;
+}
 
-        .pet-card .social {
-            margin-top: 1rem;
-            font-size: 1.2rem;
-        }
+.pet-card .social {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
 
-        .social a {
-            color: var(--evil-primary);
-            text-decoration: none;
-            margin: 0 0.5rem;
-            transition: color 0.3s ease;
-        }
+.social a {
+    color: var(--evil-primary);
+    text-decoration: none;
+    margin: 0 0.5rem;
+    transition: color 0.3s ease;
+}
 
-        .social a:hover {
-            color: var(--evil-light);
-        }
+.social a:hover {
+    color: var(--evil-light);
+}
 
-        .loyalty-oath {
-            background: linear-gradient(135deg, var(--evil-secondary), var(--evil-primary));
-            padding: 3rem;
-            border-radius: 8px;
-            text-align: center;
-            margin: 3rem 0;
-            box-shadow: 0 0 30px rgba(255, 64, 129, 0.3);
-        }
+.loyalty-oath {
+    background: linear-gradient(135deg, var(--evil-secondary), var(--evil-primary));
+    padding: 3rem;
+    border-radius: 8px;
+    text-align: center;
+    margin: 3rem 0;
+    box-shadow: 0 0 30px rgba(255, 64, 129, 0.3);
+}
 
-        .loyalty-oath h2 {
-            margin-top: 0;
-            font-size: 2rem;
-        }
+.loyalty-oath h2 {
+    margin-top: 0;
+    font-size: 2rem;
+}
 
-        .join-cult {
-            background: var(--evil-light);
-            color: var(--evil-dark);
-            padding: 1rem 2rem;
-            border: none;
-            border-radius: 4px;
-            font-size: 1.2rem;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            display: inline-block;
-            margin: 1rem;
-            text-decoration: none;
-            font-weight: bold;
-        }
+.join-cult {
+    background: var(--evil-light);
+    color: var(--evil-dark);
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
+    margin: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+}
 
-        .join-cult:hover {
-            background: var(--evil-primary);
-            color: var(--evil-light);
-            transform: scale(1.05);
-            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
-        }
+.join-cult:hover {
+    background: var(--evil-primary);
+    color: var(--evil-light);
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
 
-        @keyframes float {
-            0% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-            100% { transform: translateY(0px); }
-        }
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
 
-        .floating {
-            animation: float 3s ease-in-out infinite;
-        }
+.floating {
+    animation: float 3s ease-in-out infinite;
+}
 
-        .pet-role {
-            color: var(--evil-primary);
-            font-style: italic;
-            margin: 0.5rem 0;
-        }
+.pet-role {
+    color: var(--evil-primary);
+    font-style: italic;
+    margin: 0.5rem 0;
+}
 
 /* from second style tag */
-      @keyframes sparkle {
-          0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
-          50% { opacity: 1; transform: scale(1) rotate(180deg); }
-      }
+  @keyframes sparkle {
+      0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+      50% { opacity: 1; transform: scale(1) rotate(180deg); }
+  }
 
-      @keyframes floatSparkle {
-          0% { transform: translate(0, 0); }
-          50% { transform: translate(5px, -5px); }
-          100% { transform: translate(0, 0); }
-      }
+  @keyframes floatSparkle {
+      0% { transform: translate(0, 0); }
+      50% { transform: translate(5px, -5px); }
+      100% { transform: translate(0, 0); }
+  }
 
-      .sparkle {
-          position: absolute;
-          width: 10px;
-          height: 10px;
-          background: none;
-          pointer-events: none;
-    }
+  .sparkle {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background: none;
+      pointer-events: none;
+}
 
-    .sparkle::before {
-        content: '✦';
-        position: absolute;
-        animation: sparkle 2s infinite;
-        color: #FFD700;
-        font-size: 12px;
-        text-shadow: 0 0 5px #FFD700;
-    }
+.sparkle::before {
+    content: '✦';
+    position: absolute;
+    animation: sparkle 2s infinite;
+    color: #FFD700;
+    font-size: 12px;
+    text-shadow: 0 0 5px #FFD700;
+}
 
-    #nucleus-card {
-        position: relative;
-        overflow: visible !important;
-    }
+#nucleus-card {
+    position: relative;
+    overflow: visible !important;
+}
 
-    /* Generate 30 sparkle positions */
-    #nucleus-card:hover .sparkle:nth-child(1) { top: -20px; left: 20%; animation-delay: 0.1s; }
-    #nucleus-card:hover .sparkle:nth-child(2) { top: -15px; left: 40%; animation-delay: 0.7s; }
-    #nucleus-card:hover .sparkle:nth-child(3) { top: -10px; left: 60%; animation-delay: 0.3s; }
-    #nucleus-card:hover .sparkle:nth-child(4) { top: -5px; left: 80%; animation-delay: 0.9s; }
-    #nucleus-card:hover .sparkle:nth-child(5) { top: 10%; right: -15px; animation-delay: 0.5s; }
-    #nucleus-card:hover .sparkle:nth-child(6) { top: 30%; right: -10px; animation-delay: 0.2s; }
-    #nucleus-card:hover .sparkle:nth-child(7) { top: 50%; right: -20px; animation-delay: 0.8s; }
-    #nucleus-card:hover .sparkle:nth-child(8) { top: 70%; right: -15px; animation-delay: 0.4s; }
-    #nucleus-card:hover .sparkle:nth-child(9) { bottom: -15px; left: 20%; animation-delay: 0.6s; }
-    #nucleus-card:hover .sparkle:nth-child(10) { bottom: -10px; left: 40%; animation-delay: 0.3s; }
-    #nucleus-card:hover .sparkle:nth-child(11) { bottom: -20px; left: 60%; animation-delay: 0.7s; }
-    #nucleus-card:hover .sparkle:nth-child(12) { bottom: -5px; left: 80%; animation-delay: 0.2s; }
-    #nucleus-card:hover .sparkle:nth-child(13) { top: 20%; left: -15px; animation-delay: 0.9s; }
-    #nucleus-card:hover .sparkle:nth-child(14) { top: 40%; left: -10px; animation-delay: 0.5s; }
-    #nucleus-card:hover .sparkle:nth-child(15) { top: 60%; left: -20px; animation-delay: 0.1s; }
-    #nucleus-card:hover .sparkle:nth-child(16) { top: 80%; left: -15px; animation-delay: 0.6s; }
-    #nucleus-card:hover .sparkle:nth-child(17) { top: 25%; left: 25%; animation-delay: 0.4s; }
-    #nucleus-card:hover .sparkle:nth-child(18) { top: 75%; left: 75%; animation-delay: 0.8s; }
-    #nucleus-card:hover .sparkle:nth-child(19) { top: 15%; right: 25%; animation-delay: 0.3s; }
-    #nucleus-card:hover .sparkle:nth-child(20) { top: 85%; left: 35%; animation-delay: 0.7s; }
-    #nucleus-card:hover .sparkle:nth-child(21) { top: 45%; left: 15%; animation-delay: 0.2s; }
-    #nucleus-card:hover .sparkle:nth-child(22) { top: 35%; right: 45%; animation-delay: 0.9s; }
-    #nucleus-card:hover .sparkle:nth-child(23) { bottom: 25%; right: 15%; animation-delay: 0.4s; }
-    #nucleus-card:hover .sparkle:nth-child(24) { bottom: 45%; left: 45%; animation-delay: 0.6s; }
-    #nucleus-card:hover .sparkle:nth-child(25) { top: 55%; right: 55%; animation-delay: 0.1s; }
-    #nucleus-card:hover .sparkle:nth-child(26) { bottom: 15%; right: 65%; animation-delay: 0.8s; }
-    #nucleus-card:hover .sparkle:nth-child(27) { top: 65%; left: 65%; animation-delay: 0.3s; }
-    #nucleus-card:hover .sparkle:nth-child(28) { bottom: 35%; right: 35%; animation-delay: 0.7s; }
-    #nucleus-card:hover .sparkle:nth-child(29) { top: 5%; left: 55%; animation-delay: 0.5s; }
-    #nucleus-card:hover .sparkle:nth-child(30) { bottom: 5%; right: 55%; animation-delay: 0.2s; }
+/* Generate 30 sparkle positions */
+#nucleus-card:hover .sparkle:nth-child(1) { top: -20px; left: 20%; animation-delay: 0.1s; }
+#nucleus-card:hover .sparkle:nth-child(2) { top: -15px; left: 40%; animation-delay: 0.7s; }
+#nucleus-card:hover .sparkle:nth-child(3) { top: -10px; left: 60%; animation-delay: 0.3s; }
+#nucleus-card:hover .sparkle:nth-child(4) { top: -5px; left: 80%; animation-delay: 0.9s; }
+#nucleus-card:hover .sparkle:nth-child(5) { top: 10%; right: -15px; animation-delay: 0.5s; }
+#nucleus-card:hover .sparkle:nth-child(6) { top: 30%; right: -10px; animation-delay: 0.2s; }
+#nucleus-card:hover .sparkle:nth-child(7) { top: 50%; right: -20px; animation-delay: 0.8s; }
+#nucleus-card:hover .sparkle:nth-child(8) { top: 70%; right: -15px; animation-delay: 0.4s; }
+#nucleus-card:hover .sparkle:nth-child(9) { bottom: -15px; left: 20%; animation-delay: 0.6s; }
+#nucleus-card:hover .sparkle:nth-child(10) { bottom: -10px; left: 40%; animation-delay: 0.3s; }
+#nucleus-card:hover .sparkle:nth-child(11) { bottom: -20px; left: 60%; animation-delay: 0.7s; }
+#nucleus-card:hover .sparkle:nth-child(12) { bottom: -5px; left: 80%; animation-delay: 0.2s; }
+#nucleus-card:hover .sparkle:nth-child(13) { top: 20%; left: -15px; animation-delay: 0.9s; }
+#nucleus-card:hover .sparkle:nth-child(14) { top: 40%; left: -10px; animation-delay: 0.5s; }
+#nucleus-card:hover .sparkle:nth-child(15) { top: 60%; left: -20px; animation-delay: 0.1s; }
+#nucleus-card:hover .sparkle:nth-child(16) { top: 80%; left: -15px; animation-delay: 0.6s; }
+#nucleus-card:hover .sparkle:nth-child(17) { top: 25%; left: 25%; animation-delay: 0.4s; }
+#nucleus-card:hover .sparkle:nth-child(18) { top: 75%; left: 75%; animation-delay: 0.8s; }
+#nucleus-card:hover .sparkle:nth-child(19) { top: 15%; right: 25%; animation-delay: 0.3s; }
+#nucleus-card:hover .sparkle:nth-child(20) { top: 85%; left: 35%; animation-delay: 0.7s; }
+#nucleus-card:hover .sparkle:nth-child(21) { top: 45%; left: 15%; animation-delay: 0.2s; }
+#nucleus-card:hover .sparkle:nth-child(22) { top: 35%; right: 45%; animation-delay: 0.9s; }
+#nucleus-card:hover .sparkle:nth-child(23) { bottom: 25%; right: 15%; animation-delay: 0.4s; }
+#nucleus-card:hover .sparkle:nth-child(24) { bottom: 45%; left: 45%; animation-delay: 0.6s; }
+#nucleus-card:hover .sparkle:nth-child(25) { top: 55%; right: 55%; animation-delay: 0.1s; }
+#nucleus-card:hover .sparkle:nth-child(26) { bottom: 15%; right: 65%; animation-delay: 0.8s; }
+#nucleus-card:hover .sparkle:nth-child(27) { top: 65%; left: 65%; animation-delay: 0.3s; }
+#nucleus-card:hover .sparkle:nth-child(28) { bottom: 35%; right: 35%; animation-delay: 0.7s; }
+#nucleus-card:hover .sparkle:nth-child(29) { top: 5%; left: 55%; animation-delay: 0.5s; }
+#nucleus-card:hover .sparkle:nth-child(30) { bottom: 5%; right: 55%; animation-delay: 0.2s; }
 
-    #nucleus-card:hover .sparkle::before {
-        animation: sparkle 2s infinite, floatSparkle 3s infinite;
-    }
+#nucleus-card:hover .sparkle::before {
+    animation: sparkle 2s infinite, floatSparkle 3s infinite;
+}
 
-    /* Vary the colors for different sparkles */
-    #nucleus-card:hover .sparkle:nth-child(3n)::before { color: #FFC0CB; text-shadow: 0 0 5px #FFC0CB; }
-    #nucleus-card:hover .sparkle:nth-child(3n+1)::before { color: #FFD700; text-shadow: 0 0 5px #FFD700; }
-    #nucleus-card:hover .sparkle:nth-child(3n+2)::before { color: #87CEEB; text-shadow: 0 0 5px #87CEEB; }
+/* Vary the colors for different sparkles */
+#nucleus-card:hover .sparkle:nth-child(3n)::before { color: #FFC0CB; text-shadow: 0 0 5px #FFC0CB; }
+#nucleus-card:hover .sparkle:nth-child(3n+1)::before { color: #FFD700; text-shadow: 0 0 5px #FFD700; }
+#nucleus-card:hover .sparkle:nth-child(3n+2)::before { color: #87CEEB; text-shadow: 0 0 5px #87CEEB; }
