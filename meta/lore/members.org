@@ -656,3 +656,36 @@ i'm exra-ordinary because I don't try and stand outtt uhh yes I like programming
 
 ** everypoint1
 Backend developer, building someone else's startup. I'm interested in finance, supply chain and semiconductor manufacturing. Claude is my friend.
+
+** mewtrino
+
+*** Website
+Hi! I'm mewtrino.
+
+I am a college student studying physics and mathematics. I am currently working on learning FPGA gateware programming, an operating system in Rust, a matrix widget for plural systems, and basic network programming. Feel free to reach out!
+Elsewhere
+
+I can also be found on:
+
+Matrix
+    @mewtrino:matrix.org
+Github
+    mewtrino
+IRC
+    mewtrino on Libera.Chat
+Cohost
+    @mewtrino
+Twitter
+    @mewtrino_
+Fediverse
+    @mewtrino@deadinsi.de
+*** github
+catgirl
+*** tweets
+"that's why I worship Madoka"
+"oh, you were serious about that angel girl thing."
+"it's okay I support Homuras in their righteous path"
+"bad idea."
+*** notes
+easily obsessessive and attached
+name is a play on "neutrino"
