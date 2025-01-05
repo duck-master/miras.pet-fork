@@ -315,3 +315,44 @@ h1 {
 #mewtrino-card:hover .quantum-particle:nth-child(1) { top: -20px; left: 10%; animation-delay: 0.1s; }
 #mewtrino-card:hover .quantum-particle:nth-child(2) { top: -15px; left: 30%; animation-delay: 0.7s; }
 /* ... continue for all 20 particles with varied positions and delays */
+.hero {
+    display: flex;
+    align-items: center; /* Vertically center the content */
+    justify-content: center; /* Center the whole hero block */
+    padding: 4rem 1rem;
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.9), rgba(0, 0, 0, 0.7));
+    text-align: center;
+    gap: 2rem; /* Add spacing between the image and text */
+}
+
+.hero .hero-candle {
+    flex-shrink: 0; /* Prevent the image from shrinking */
+    width: 30%; /* Give the image a fixed 30% width */
+    max-width: 300px; /* Keep it consistent on larger screens */
+    border-radius: 16px;
+    box-shadow: 0 0 30px rgba(255, 64, 129, 0.7);
+    transition: transform 0.3s ease;
+}
+
+.hero .hero-candle:hover {
+    transform: scale(1.1); /* Slight hover effect */
+}
+
+.hero .hero-text {
+    flex: 1; /* Allow the text to occupy the remaining space */
+    max-width: 600px;
+    text-align: center; /* Center-align the text itself */
+}
+
+.hero-text h2 {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+    color: var(--evil-primary);
+    text-shadow: 0 4px 10px rgba(255, 64, 129, 0.5);
+}
+
+.hero-text p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--evil-light);
+}
