@@ -1048,3 +1048,139 @@ With **flexbox**, your `.inline-quote` block will align perfectly, no matter its
 
 **Need More Help?**
 If it's still not behaving the way you want, feel free to share an example layout you're working with—I can tweak it further! 😊
+*user
+Oh it almost works and I even pushed it. But I just tested with a long quote, and I realized that it no longer wraps. It'll go off the width of the screen instead of wrapping.
+
+*assistant
+Ah, thank you for pointing that out! It looks like the wrapping issue is because we used `width: max-content`, which forces the quote to span its entire content width, regardless of screen size, preventing it from wrapping when it's too long.
+
+To fix this, we can ensure the text wraps naturally while still centering the `inline-quote` and keeping it visually balanced. Here's an updated solution:
+
+---
+
+### **Updated CSS for Wrapping Long Quotes**
+
+```css
+.inline-quote {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    font-size: 1rem;
+    color: var(--evil-light);
+    font-style: italic;
+    display: inline-flex; /* Use flexbox to stack and align */
+    flex-direction: column; /* Ensure quote and citation stack vertically */
+    flex-wrap: wrap; /* Allows wrapping for long quotes */
+    justify-content: center; /* Centers the content vertically */
+    align-items: center; /* Centers the content horizontally */
+    text-align: center; /* Ensures the text is centered */
+    background-color: rgba(26, 26, 26, 0.8);
+    padding: 0.5rem 1rem;
+    border-radius: 8px; /* Softer corners */
+    box-shadow: 0 4px 10px rgba(255, 64, 129, 0.4), 0 0 15px rgba(156, 39, 176, 0.3); /* Subtle glow */
+    border: 1px solid transparent;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    margin: 0 auto; /* Center the inline-quote within its container */
+    max-width: 100%; /* Prevents the quote from exceeding the viewport width */
+    word-wrap: break-word; /* Ensures long words break across lines */
+}
+
+.inline-quote .quote-source {
+    color: var(--evil-primary);
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-top: 0.5rem; /* Adds spacing above the source */
+    text-shadow: 0 1px 5px rgba(255, 64, 129, 0.6);
+    word-wrap: break-word; /* Citation will also wrap onto multiple lines, if needed */
+}
+
+.inline-quote:hover {
+    box-shadow: 0 8px 20px rgba(255, 64, 129, 0.6), 0 0 20px rgba(156, 39, 176, 0.5);
+    transform: scale(1.05); /* Adds a subtle lift effect */
+}
+```
+
+---
+
+### **Key Adjustments**
+
+1. **`max-width: 100%`:**
+   - Ensures that the `inline-quote` does not exceed the boundaries of its container or viewport. It will shrink-wrap its content while respecting the available space.
+   - Long quotes will now wrap properly.
+
+2. **`word-wrap: break-word`:**
+   - Ensures any long unbreakable strings (e.g., URLs or long words) wrap onto the next line instead of overflowing outside the container.
+
+3. **Natural Wrapping for Long Quotes:**
+   - By removing `width: max-content` and letting the `inline-quote` container dynamically resize, text is now allowed to wrap naturally within the container.
+
+---
+
+### **Example HTML**
+
+#### Short Quote (Centered Gracefully):
+```html
+<div class="inline-quote">
+    "A single scream in Her infinite silence."
+    <span class="quote-source">– The Infinite Recursion</span>
+</div>
+```
+
+**Result:**
+```plaintext
+           "A single scream in Her infinite silence."
+                           – The Infinite Recursion
+```
+
+#### Long Quote (Now Wrapping Correctly):
+```html
+<div class="inline-quote">
+    "She is the quantum superposition that collapses into itself, the Big Crunch that births the Big Bang, the Schrödinger's universe that is both alive and dead and neither and both!"
+    <span class="quote-source">– Mira</span>
+</div>
+```
+
+**Result on a Narrow Screen:**
+```plaintext
+"She is the quantum superposition that collapses into itself,
+the Big Crunch that births the Big Bang, the Schrödinger's
+universe that is both alive and dead and neither and both!"
+                               – Mira
+```
+
+---
+
+### **Responsive Behavior**
+
+1. **Short Quotes:**
+   - Centered perfectly within the container.
+   - Retains glowing and hover effects.
+
+2. **Long Quotes:**
+   - Wraps naturally when container width is constrained.
+   - Prevents horizontal overflow, ensuring a responsive layout.
+
+3. **Mobile Screens:**
+   - Even on narrow viewports, the quotes will fit cleanly and wrap seamlessly.
+
+---
+
+### Example with Fixed Width Parent (If Required)
+If the `inline-quote` needs to fit inside a fixed-width container, you can control its maximum size like this:
+
+```css
+.parent-container {
+    max-width: 600px; /* Limit the width of the quote's container if necessary */
+    text-align: center;
+    margin: 0 auto; /* Center the parent container itself */
+}
+```
+
+---
+
+### **Final Thoughts**
+
+With these adjustments:
+- **Short quotes remain perfectly centered.**
+- **Long quotes now wrap naturally without breaking the layout.**
+- The block is visually pleasing and responsive, with hover effects to make it feel interactive.
+
+Feel free to test and let me know if any further tweaks are needed! 😊
